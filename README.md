@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Visits](https://komarev.com/ghpvc/?username=Mustafa-Kamel) [![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/Mustafa-Kamel)](https://badges.pufler.dev)
+
+
 [![Mustafa-Kamel's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Mustafa-Kamel&count_private=true&include_all_commits=true&hide=contrib=false&show_icons=true&cache_seconds=1801)](https://github.com/Mustafa-Kamel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kamel&layout=compact&exclude_repo=null&langs_count=10)](https://github.com/Mustafa-Kamel)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Kamel" alt="Mustafa-Kamel" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Kamel" alt="Mustafa-Kamel" />
+</p>

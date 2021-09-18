@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </p>
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kamel&layout=compact&exclude_repo=null&langs_count=10" alt="Mustafa Kamel's top languages">
-  <img src ="https://activity-graph.herokuapp.com/graph?username=Mustafa-Kamel&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true">
+  <img width="49%" src ="https://activity-graph.herokuapp.com/graph?username=Mustafa-Kamel&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true">
 </p>

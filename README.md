@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Kamel" alt="Mustafa Kamel's contributions" />
 </p>
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kamel&layout=compact&exclude_repo=null&langs_count=10" alt="Mustafa Kamel's top languages">
-  <img width="49%" height="400" src ="https://activity-graph.herokuapp.com/graph?username=Mustafa-Kamel&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kamel&layout=compact&exclude_repo=null&langs_count=10" alt="Mustafa Kamel's top languages">
+  <img width="49%" height="300" src ="https://activity-graph.herokuapp.com/graph?username=Mustafa-Kamel&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true">
 </p>

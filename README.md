@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile Visits](https://komarev.com/ghpvc/?username=Mustafa-Kamel) <!-- [![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)](https://commits.top/egypt.html) --> 
+[![Repos Badge](https://badges.pufler.dev/repos/Mustafa-Kamel)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/Mustafa-Kamel)](https://badges.pufler.dev)
 
 <p>

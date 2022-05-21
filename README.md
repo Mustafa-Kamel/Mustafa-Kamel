@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 
 Connect Me Via<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <a href="https://www.linkedin.com/in/mustafakamel/" target="_blank">
-  <img align="center" alt="Mustafa | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Mustafa | Linkedin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/800px-Linkedin_circle.svg.png?20140819083532" />
 </a> &nbsp;&nbsp;
 <a href="https://profile-summary-for-github.herokuapp.com/user/mustafa-kamel" target="_blank">
   <img align="center" alt="Mustafa | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+<a href="https://gitlab.com/mustafakamel" target="_blank">
+  <img align="center" alt="Mustafa | Gitlab" width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 </a> &nbsp;&nbsp;

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--👋HELLO EVERYBODY / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="10px">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px">
  </p>
  
 ![Profile Visits](https://komarev.com/ghpvc/?username=Mustafa-Kamel&color=4cc61e) <!-- [![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)](https://commits.top/egypt.html) --> 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 
-Connect Me Via<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="6px">
+Connect Me Via <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <a href="https://www.linkedin.com/in/mustafakamel/" target="_blank">
   <img align="center" alt="Mustafa | Linkedin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/800px-Linkedin_circle.svg.png?20140819083532" />
 </a> &nbsp;&nbsp;

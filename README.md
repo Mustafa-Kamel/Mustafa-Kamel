@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Kamel&theme=merko" alt="Mustafa's contributions" />
 </p>
 <p>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kamel&layout=compact&exclude_repo=null&langs_count=10&theme=merko" alt="Mustafa Kamel's top languages">
-  <img width="54%" height="40%" src ="https://activity-graph.herokuapp.com/graph?username=Mustafa-Kamel&bg_color=0a0f0b&color=68b587&line=90b302&point=03d3d&area=true">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kamel&layout=compact&exclude_repo=null&langs_count=10&theme=merko" alt="Mustafa Kamel's top languages">
+  <img width="49%" src ="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-Kamel&bg_color=0a0f0b&color=68b587&line=90b302&point=03d3d&area=true">
 </p>
 
 
